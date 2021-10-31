@@ -17,14 +17,8 @@
     <loc>https://afreisinger.github.io/posts/papermod/papermod-variables/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://afreisinger.github.io/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://afreisinger.github.io/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://afreisinger.github.io/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -41,11 +35,8 @@
                 href="https://afreisinger.github.io/"
                 />
   </url><url>
-    <loc>https://afreisinger.github.io/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://afreisinger.github.io/posts/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -61,6 +52,39 @@
                 hreflang="en"
                 href="https://afreisinger.github.io/posts/"
                 />
+  </url><url>
+    <loc>https://afreisinger.github.io/tags/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://afreisinger.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://afreisinger.github.io/fa/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://afreisinger.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://afreisinger.github.io/posts/testing/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://afreisinger.github.io/tags/testing/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://afreisinger.github.io/tags/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://afreisinger.github.io/series/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://afreisinger.github.io/posts/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://afreisinger.github.io/series/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
@@ -78,24 +102,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://afreisinger.github.io/series/"
-                />
-  </url><url>
-    <loc>https://afreisinger.github.io/tags/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://afreisinger.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://afreisinger.github.io/fa/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://afreisinger.github.io/tags/"
                 />
   </url><url>
     <loc>https://afreisinger.github.io/categories/</loc>
